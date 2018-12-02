@@ -1,2 +1,2 @@
 # JS-effects
-Эффекты появления текста 
+text appear effects
